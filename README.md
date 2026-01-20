@@ -76,22 +76,17 @@ Cost overruns are more frequent in specific routes and carriers.
 
 🛠 Tools & Technologies
 
-Python
-
-Pandas – data cleaning & manipulation
-
-Excel – data storage
+Excel
 
 
 📂 Project Structure
 
 Freight-Cost-Analysis/
 │
+
 ├── Freight_Cost_Analysis_Dataset.xlsx
-├── freight_cost_analysis.ipynb   
+
+├── freight_cost_analysis.png   
 ├── README.md
 
 
-Jupyter Notebook / VS Code – analysis environment
-
-(Optional: Power BI / Matplotlib / Seaborn for visualization)
