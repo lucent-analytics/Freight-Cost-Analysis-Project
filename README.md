@@ -4,6 +4,7 @@ A data analysis project that explores freight shipment costs and delivery perfor
 
 
 📦 Freight Cost Analysis Project
+
 📌 Project Overview
 
 This project analyzes freight shipment data to understand cost behavior, delivery performance, and operational efficiency across different routes, carriers, and transportation modes.
